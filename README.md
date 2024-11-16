@@ -11,11 +11,11 @@ Features:
 	2) Payments system with amortization calculations.
 	3) User roles: Bank Staff, Loan Providers, Loan Customers.
 	4) Automated test cases for core functionalities.
-	5) RESTful API documentation: [Postman Collection](https://documenter.getpostman.com/view/26091365/2sAYBPmEH1)
+	5) RESTful API documentation: https://documenter.getpostman.com/view/26091365/2sAYBPmEH1
 
 Installation Instructions:
 	1) Clone the Repository
- 		git clone https://github.com/your-username/your-repo-name.git
+ 		git clone https://github.com/moaztareq/loans.git
 		cd your-repo-name
 	2) Create a Virtual Environment
  		python -m venv venv
